@@ -50,4 +50,4 @@ Swagger UI (локально): http://localhost:10000/swagger
 Ссылки
 GitHub: https://github.com/ihenimo/wt-lab6-6minimalapi-savostikova
 
-Render: ССЫЛКА_ПОЯВИТСЯ_ПОСЛЕ_ДЕПЛОЯ
+Render: https://wt-lab6-6minimalapi-savostikova-1.onrender.com
