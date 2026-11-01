@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/1zAHk8vLI=",
+  "success": true,
+  "projectFilePath": "D:\\4 курс 7 сем\\WT\\Git\\wt-lab6-6minimalapi-savostikova\\wt-lab6-6minimalapi-savostikova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\swashbuckle.aspnetcore\\10.3.1\\swashbuckle.aspnetcore.10.3.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.3.1\\swashbuckle.aspnetcore.swagger.10.3.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.3.1\\swashbuckle.aspnetcore.swaggergen.10.3.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.3.1\\swashbuckle.aspnetcore.swaggerui.10.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
